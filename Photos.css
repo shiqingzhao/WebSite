@@ -1,0 +1,14 @@
+﻿image
+{
+    width: 30%;
+    float: left;
+    margin: 1.66%;
+}
+
+p {
+    text-align: right;
+    color: rgb(255,255,255);
+    font-size: 1.5vw;
+    margin-left: 2%;
+    margin-right: 2%;
+}
